@@ -1,7 +1,14 @@
 ## SearchMind 🔎🧠
 
 AI-powered web search and summarization with citations. Type or dictate your query, SearchMind fetches results (Serper), summarizes with Gemini, and stores history in Cloudflare D1.
-
+<div>
+    <a href="https://www.loom.com/share/e54b47b45c7949f09aa93fb2efd340f2">
+      <p>SearchMind </p>
+    </a>
+    <a href="https://www.loom.com/share/e54b47b45c7949f09aa93fb2efd340f2">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e54b47b45c7949f09aa93fb2efd340f2-18d75d43e4805736-full-play.gif">
+    </a>
+  </div>
 ### Features
 - Voice input (speech-to-text) and text-to-speech for summaries
 - AI summary with numbered citations [1], [2], …
